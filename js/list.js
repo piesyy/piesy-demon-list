@@ -134,6 +134,31 @@ const d = {
                        "key": 7
                 },
         /*=================================================================================*/
+	{
+                       "vids": [
+              	{
+				       "user": "Vones",
+				       "link": "https://youtu.be/vhPvX1MQTTY",
+				       "percent": 100,
+				       "hz": "300hz"
+			       },
+		{
+				       "user": "luna",
+				       "link": "https://youtu.be/Hn87YJ7IAG8",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
+                       ],
+                       "name": "Digital Descent",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 37456092,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/b6Iwuhj4Fz0",
+                       "key": 8
+                },
+        /*=================================================================================*/
 	],
 	"version": [
 		1,
