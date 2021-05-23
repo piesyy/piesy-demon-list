@@ -293,7 +293,7 @@ const d = {
                        "key": 16
                 },
         /*=================================================================================*/
-		{
+	{
                        "vids": [
               	{
 				       "user": "Koozoo2000",
@@ -311,9 +311,8 @@ const d = {
                        "verificationVid": "https://youtu.be/WYDV_31YsL4",
                        "key": 17
                 },
-		
         /*=================================================================================*/
-			{
+	{
                        "vids": [
               	{
 				       "user": "JT",
@@ -331,7 +330,191 @@ const d = {
                        "verificationVid": "https://youtu.be/hyPWWN-Kf9U",
                        "key": 18
                 },
-		
+        /*=================================================================================*/
+	{
+                       "vids": [
+              	{
+				       "user": "Koozoo2000",
+				       "link": "https://youtu.be/eKkc8Jyo6AY",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
+		{
+				       "user": "shibi",
+				       "link": "https://youtu.be/sUAjPszSFKA",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Audio Expulsion",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 48679353,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/Gg8jZFrcYTQ",
+                       "key": 19
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              	{
+				       "user": "Vones",
+				       "link": "https://youtu.be/9R86vQXkLAc",
+				       "percent": 58,
+				       "hz": "300hz"
+			       },
+                       ],
+                       "name": "Dolos",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 58417850,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/sj-wr-B4Ae4",
+                       "key": 20
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              	{
+				       "user": "Vink",
+				       "link": "https://youtu.be/s_0jSTXaM7Q",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
+                       ],
+                       "name": "Carcano",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 64148732,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/49J3akVBfDo",
+                       "key": 21
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Mujigae",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 38765979,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/NW0XaM3n7y8",
+                       "key": 22
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Shock Therapy",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 57121503,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/XQNcFfgp5iE",
+                       "key": 23
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Disentombed",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 63354496,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/rwYTV-v4Tp8",
+                       "key": 24
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              	{
+				       "user": "Koozoo2000",
+				       "link": "https://youtu.be/c83Wf0qcxGQ",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
+                       ],
+                       "name": "Athanatos",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 26133601,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/cYBNjGclB8c",
+                       "key": 25
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "SPEEDRUN",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 58507437,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/iwYHoPGmnOE",
+                       "key": 26
+                },
+        /*=================================================================================*/
+		{
+                       "vids": [
+              
+                       ],
+                       "name": "Ithacropolis",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 41149984,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/5lcbr2pXQLI",
+                       "key": 27
+                },
+        /*=================================================================================*/
+		{
+                       "vids": [
+              
+                       ],
+                       "name": "Fusion Z",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 59933468,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/WXPcFUIh6dE",
+                       "key": 28
+                },
+        /*=================================================================================*/
+		{
+                       "vids": [
+              {
+				       "user": "shibi",
+				       "link": "https://youtu.be/Zga_wbIHqIU",
+				       "percent": 90,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Epsilon",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 48843446,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/LdxiBJMtZ18",
+                       "key": 29
+                },
         /*=================================================================================*/
 	],
 	"version": [
