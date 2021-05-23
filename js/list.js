@@ -469,7 +469,7 @@ const d = {
                        "key": 26
                 },
         /*=================================================================================*/
-		{
+	{
                        "vids": [
               
                        ],
@@ -483,7 +483,7 @@ const d = {
                        "key": 27
                 },
         /*=================================================================================*/
-		{
+	{
                        "vids": [
               
                        ],
@@ -497,7 +497,7 @@ const d = {
                        "key": 28
                 },
         /*=================================================================================*/
-		{
+	{
                        "vids": [
               {
 				       "user": "shibi",
@@ -514,6 +514,472 @@ const d = {
                        "percentToQualify": 50,
                        "verificationVid": "https://youtu.be/LdxiBJMtZ18",
                        "key": 29
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              {
+				       "user": "Koozoo2000",
+				       "link": "https://youtu.be/I35R2uu_DhE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		{
+				       "user": "shibi",
+				       "link": "https://youtu.be/tSb0ivANxzw",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
+		{
+				       "user": "Vink",
+				       "link": "https://youtu.be/OlEm9AzoEtI",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
+                       ],
+                       "name": "Bloodbath",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 10565740,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/v1uxFgvqwgY",
+                       "key": 30
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Sakupen Hell",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 23262780,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/JtR-PFrP6Ps",
+                       "key": 31
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Atmosphere",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 42664144,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/-0_YVZwebjo",
+                       "key": 32
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Azure Fiesta",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 60923124,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/RpV5-niF6z0",
+                       "key": 33
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Ecstasy",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 65249411,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/BE66j9Yn12E",
+                       "key": 34
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Hateful Reflection",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 61132346,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/C0Hi5TjvVUI",
+                       "key": 35
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              {
+				       "user": "shibi",
+				       "link": "https://youtu.be/3T2cEVn6Gb4",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
+                       ],
+                       "name": "Idols",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 48175126,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/qVql9EMw17k",
+                       "key": 36
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Just DANCE",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 60257058,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/AZtJmzw6BD8",
+                       "key": 37
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              {
+				       "user": "Vink",
+				       "link": "https://youtu.be/VKwtrI94RRc",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
+                       ],
+                       "name": "Prismatic Haze",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 48175126,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/Mst4SVcztzw",
+                       "key": 38
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              {
+				       "user": "Koozoo2000",
+				       "link": "https://youtu.be/cHQ8ydzLXxU",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		{
+				       "user": "Vink",
+				       "link": "https://youtu.be/AtosFDpNsG8",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
+                       ],
+                       "name": "Aftermath",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 25610878,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/Wfds5kc4vdY",
+                       "key": 39
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "Down Bass",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 8147005,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/c7zQc626u4k",
+                       "key": 40
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              {
+				       "user": "Koozoo2000",
+				       "link": "https://youtu.be/cu4Q3EwR4Is",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Breakout",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 25241513,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/NIWGd6eVm4E",
+                       "key": 41
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              {
+				       "user": "Koozoo2000",
+				       "link": "https://youtu.be/oZn5qYSS4nU",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Deception Dive",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 34379100,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/Qrr5Emy28M4",
+                       "key": 42
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              {
+				       "user": "Vones",
+				       "link": "https://youtu.be/YMwrIPBNv2I",
+				       "percent": 100,
+				       "hz": "300hz"
+			       },
+                       ],
+                       "name": "Glide",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 55184818,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/U_AR7LTQAks",
+                       "key": 43
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+			       
+                       ],
+                       "name": "Skrrah",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 46510793,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/9msmknRh_zY",
+                       "key": 44
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+			       
+                       ],
+                       "name": "Annihilation Nation",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 48008831,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/PtkF_GSUZTA",
+                       "key": 45
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+			       
+                       ],
+                       "name": "Night Party",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 39242117,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/XKuaZx0i4uU",
+                       "key": 46
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+		{
+				       "user": "Koozoo2000",
+				       "link": "https://youtu.be/DDd9sCqIweM",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		 {
+				       "user": "shibi",
+				       "link": "https://youtu.be/KgrBASDssOM",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
+                       ],
+                       "name": "Allegiance",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 20761188,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/18X788y6sAM",
+                       "key": 47
+                },
+        /*=================================================================================*/
+		{
+                       "vids": [
+		 {
+				       "user": "Koozoo2000",
+				       "link": "https://youtu.be/onsUzYT68aE",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		 {
+				       "user": "shibi",
+				       "link": "https://youtu.be/-JV4AnFi5bI",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
+                       ],
+                       "name": "Incipient",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 32688321,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/EfU4SB73J6Q",
+                       "key": 48
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+		{
+				       "user": "Vink",
+				       "link": "https://youtu.be/oIKxT6hKojk",
+				       "percent": 100,
+				       "hz": "60hz"
+			       },
+		 {
+				       "user": "shibi",
+				       "link": "https://youtu.be/E9AcWszCbYo",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
+		{
+				       "user": "Vones",
+				       "link": "https://youtu.be/dHptu4hPwtE",
+				       "percent": 100,
+				       "hz": "300hz"
+			       },
+		{
+				       "user": "Koozoo2000",
+				       "link": "https://youtu.be/1LKPG2fjlN8",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
+                       ],
+                       "name": "Acu",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 61079355,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/w1YXNwqtmio",
+                       "key": 49
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+		{
+				       "user": "Koozoo2000",
+				       "link": "https://youtu.be/VQy775aNpNs",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+		{
+				       "user": "shibi",
+				       "link": "https://youtu.be/gASpRaQQVJ0",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
+		{
+				       "user": "Vink",
+				       "link": "https://youtu.be/fcu4B61xnEM",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
+                       ],
+                       "name": "Cataclysm",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 3979721,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/UhG1xVe1_uQ",
+                       "key": 50
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+		{
+				       "user": "Koozoo2000",
+				       "link": "https://youtu.be/d7FFjfNL3z4",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "Hypersonic",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 30219145,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/m-F_6Q22dJQ",
+                       "key": 51
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+		{
+				       "user": "Koozoo2000",
+				       "link": "https://youtu.be/jiJNya_uZ_0",
+				       "percent": 100,
+				       "hz": "144hz"
+			       },
+                       ],
+                       "name": "ICE Carbon Diablo X",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 814678,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/F8GoHnE2V_M",
+                       "key": 52
+                },
+        /*=================================================================================*/
+		{
+                       "vids": [
+		{
+				       "user": "Koozoo2000",
+				       "link": "https://youtu.be/bov9WkS_MsM",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
+                       ],
+                       "name": "Gunslinga Corridor",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 58069223,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/bjwDKDyTqz4",
+                       "key": 53
                 },
         /*=================================================================================*/
 	],
