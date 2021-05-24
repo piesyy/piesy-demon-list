@@ -733,6 +733,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "120hz"
 			       },
+			       {
+				       "user": "luna",
+				       "link": "https://www.youtube.com/watch?v=EnbJaDPuNeM",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "Prismatic Haze",
                        "author": "piesy",
@@ -758,6 +764,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "120hz"
 			       },
+			       {
+				       "user": "luna",
+				       "link": "https://www.youtube.com/watch?v=024PCNnSYac",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
                        ],
                        "name": "Aftermath",
                        "author": "piesy",
@@ -771,7 +783,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+              {
+				       "user": "luna",
+				       "link": "https://www.youtube.com/watch?v=uzIE4EQKTq8",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "Down Bass",
                        "author": "piesy",
@@ -790,6 +807,12 @@ const d = {
 				       "link": "https://youtu.be/cu4Q3EwR4Is",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+			       {
+				       "user": "luna",
+				       "link": "https://www.youtube.com/watch?v=o0aNqhCkeg4",
+				       "percent": 100,
+				       "hz": "240hz"
 			       },
                        ],
                        "name": "Breakout",
@@ -815,6 +838,12 @@ const d = {
 				       "link": "https://www.youtube.com/watch?v=vJwKKKd2ZYE",
 				       "percent": 84,
 				       "hz": "120hz"
+			       },
+			       {
+				       "user": "luna",
+				       "link": "https://www.youtube.com/watch?v=qiflxAslu6s",
+				       "percent": 100,
+				       "hz": "288hz"
 			       },
                        ],
                        "name": "Deception Dive",
@@ -862,7 +891,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-			       
+			       {
+				       "user": "luna",
+				       "link": "https://www.youtube.com/watch?v=opcEi8gJUks",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "Annihilation Nation",
                        "author": "piesy",
@@ -902,6 +936,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+			       {
+				       "user": "luna",
+				       "link": "https://www.youtube.com/watch?v=vqxkZFJEQ3s",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "Allegiance",
                        "author": "piesy",
@@ -926,6 +966,12 @@ const d = {
 				       "link": "https://youtu.be/-JV4AnFi5bI",
 				       "percent": 100,
 				       "hz": "288hz"
+			       },
+			       {
+				       "user": "luna",
+				       "link": "https://www.youtube.com/watch?v=ef-L_YsF4tQ",
+				       "percent": 100,
+				       "hz": "144hz"
 			       },
                        ],
                        "name": "Incipient",
@@ -964,6 +1010,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "240hz"
 			       },
+			       {
+				       "user": "luna",
+				       "link": "https://www.youtube.com/watch?v=sTlu8C1JCd0",
+				       "percent": 100,
+				       "hz": "120hz"
+			       },
                        ],
                        "name": "Acu",
                        "author": "piesy",
@@ -994,6 +1046,12 @@ const d = {
 				       "link": "https://youtu.be/fcu4B61xnEM",
 				       "percent": 100,
 				       "hz": "120hz"
+			       },
+			       {
+				       "user": "luna",
+				       "link": "https://www.youtube.com/watch?v=fMGS5kBGmMw",
+				       "percent": 100,
+				       "hz": "288hz"
 			       },
                        ],
                        "name": "Cataclysm",
@@ -1045,6 +1103,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "120hz"
 			       },
+			       {
+				       "user": "luna",
+				       "link": "https://www.youtube.com/watch?v=n_OvZT59vh8",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
                        ],
                        "name": "ICE Carbon Diablo X",
                        "author": "piesy",
@@ -1063,6 +1127,12 @@ const d = {
 				       "link": "https://youtu.be/bov9WkS_MsM",
 				       "percent": 100,
 				       "hz": "288hz"
+			       },
+			       {
+				       "user": "luna",
+				       "link": "https://www.youtube.com/watch?v=cOIIjsfzha8",
+				       "percent": 100,
+				       "hz": "240hz"
 			       },
                        ],
                        "name": "Gunslinga Corridor",
