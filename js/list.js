@@ -7,19 +7,19 @@ const d = {
 					"user": "Dhar Mann",
 					"link": "https://youtu.be/QHq_S-ihf7M",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": ""
 				},
 			       {
 					"user": "LivingBobby",
 					"link": "https://youtu.be/x6o2bqsTfZs",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": ""
 				},
  {
 					"user": "AeonAir",
 					"link": "https://youtu.be/Nr9E-r57NRU",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": ""
 				},
                        ],
                        "name": "Be a Good Person",
@@ -108,7 +108,7 @@ const d = {
 					"user": "luna",
 					"link": "https://youtu.be/51lOAql1Mks",
 					"percent": 100,
-					"hz": "240hz"
+					"hz": ""
 				},
                        ],
                        "name": "Titan Complex",
@@ -127,13 +127,13 @@ const d = {
 				       "user": "Vones",
 				       "link": "https://youtu.be/ZESqQ8OdQDo",
 				       "percent": 76,
-				       "hz": "300hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "luna",
 				       "link": "https://youtu.be/Fjh12XGhem4",
 				       "percent": 70,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Erebus",
@@ -152,13 +152,13 @@ const d = {
 				       "user": "luna",
 				       "link": "https://youtu.be/LA2nlO3nd_4",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/Q_AXunN3xcI",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "ZAPHKIEL",
@@ -177,13 +177,13 @@ const d = {
 				       "user": "Vones",
 				       "link": "https://youtu.be/vhPvX1MQTTY",
 				       "percent": 100,
-				       "hz": "300hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "luna",
 				       "link": "https://youtu.be/Hn87YJ7IAG8",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Digital Descent",
@@ -202,7 +202,7 @@ const d = {
 				       "user": "luna",
 				       "link": "https://youtu.be/BrEFZtgkT20",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Catalyze",
@@ -249,7 +249,7 @@ const d = {
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=quCyfX7QvKM",
 				       "percent": 76,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Delta Interface",
@@ -268,7 +268,7 @@ const d = {
 				       "user": "luna",
 				       "link": "https://youtu.be/L87Tev_CBBk",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Artificial Ascent",
@@ -287,7 +287,7 @@ const d = {
 				       "user": "luna",
 				       "link": "https://youtu.be/P3--0rwwEik",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Auditory Breaker",
@@ -306,7 +306,7 @@ const d = {
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=vcH_SbTVKMg",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Glowy",
@@ -325,19 +325,19 @@ const d = {
 				       "user": "Vones",
 				       "link": "https://youtu.be/ee9WvF_HUDs",
 				       "percent": 100,
-				       "hz": "300hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/IIYDlVXcaVI",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "Vink",
 				       "link": "https://youtu.be/d1sDfKcWAA4",
 				       "percent": 82,
-				       "hz": "180hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Rate Demon",
@@ -356,13 +356,13 @@ const d = {
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/7zqJQJvVeY4",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=5J2FDWRJx7M",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Ziroikabi",
@@ -381,13 +381,13 @@ const d = {
 				       "user": "JT",
 				       "link": "https://youtu.be/bvObypx7roQ",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "luna",
 				       "link": "https://youtu.be/Y1QqpKbwAAA",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Surge of the Shield",
@@ -406,19 +406,19 @@ const d = {
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/eKkc8Jyo6AY",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "shibi",
 				       "link": "https://youtu.be/sUAjPszSFKA",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "luna",
 				       "link": "https://youtu.be/6i5TxqKd_1E",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Audio Expulsion",
@@ -437,7 +437,7 @@ const d = {
 				       "user": "Vones",
 				       "link": "https://youtu.be/9R86vQXkLAc",
 				       "percent": 58,
-				       "hz": "300hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Dolos",
@@ -456,7 +456,7 @@ const d = {
 				       "user": "Vink",
 				       "link": "https://youtu.be/s_0jSTXaM7Q",
 				       "percent": 100,
-				       "hz": "120hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Carcano",
@@ -503,7 +503,7 @@ const d = {
 				       "user": "luna",
 				       "link": "https://youtu.be/RdV12EZGX3w",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Disentombed",
@@ -522,7 +522,7 @@ const d = {
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/c83Wf0qcxGQ",
 				       "percent": 100,
-				       "hz": "288hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Athanatos",
@@ -541,7 +541,7 @@ const d = {
 				       "user": "luna",
 				       "link": "https://youtu.be/25v6CyYRoEQ",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "SPEEDRUN",
@@ -574,7 +574,7 @@ const d = {
 				       "user": "luna",
 				       "link": "https://youtu.be/H2RBovHqtYo",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Fusion Z",
@@ -593,7 +593,7 @@ const d = {
 				       "user": "shibi",
 				       "link": "https://youtu.be/Zga_wbIHqIU",
 				       "percent": 90,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Epsilon",
@@ -612,25 +612,25 @@ const d = {
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/I35R2uu_DhE",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "shibi",
 				       "link": "https://youtu.be/tSb0ivANxzw",
 				       "percent": 100,
-				       "hz": "288hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "Vink",
 				       "link": "https://youtu.be/OlEm9AzoEtI",
 				       "percent": 100,
-				       "hz": "120hz"
+				       "hz": ""
 			       },
 			       {
 				       "user": "luna",
 				       "link": "https://youtu.be/KI72VgVOqrE",
 				       "percent": 100,
-				       "hz": "288hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Bloodbath",
@@ -663,7 +663,7 @@ const d = {
 				       "user": "luna",
 				       "link": "https://youtu.be/j6U1whaVETM",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Atmosphere",
@@ -682,7 +682,7 @@ const d = {
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=cc7qstGtgUw",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Azure Fiesta",
@@ -729,7 +729,7 @@ const d = {
 				       "user": "shibi",
 				       "link": "https://youtu.be/3T2cEVn6Gb4",
 				       "percent": 100,
-				       "hz": "288hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Idols",
@@ -762,13 +762,13 @@ const d = {
 				       "user": "Vink",
 				       "link": "https://youtu.be/VKwtrI94RRc",
 				       "percent": 100,
-				       "hz": "120hz"
+				       "hz": ""
 			       },
 			       {
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=EnbJaDPuNeM",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Prismatic Haze",
@@ -787,19 +787,19 @@ const d = {
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/cHQ8ydzLXxU",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "Vink",
 				       "link": "https://youtu.be/AtosFDpNsG8",
 				       "percent": 100,
-				       "hz": "120hz"
+				       "hz": ""
 			       },
 			       {
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=024PCNnSYac",
 				       "percent": 100,
-				       "hz": "288hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Aftermath",
@@ -818,7 +818,7 @@ const d = {
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=uzIE4EQKTq8",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Down Bass",
@@ -837,13 +837,13 @@ const d = {
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/cu4Q3EwR4Is",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 			       {
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=o0aNqhCkeg4",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Breakout",
@@ -862,19 +862,19 @@ const d = {
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/oZn5qYSS4nU",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "Vink",
 				       "link": "https://www.youtube.com/watch?v=vJwKKKd2ZYE",
 				       "percent": 84,
-				       "hz": "120hz"
+				       "hz": ""
 			       },
 			       {
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=qiflxAslu6s",
 				       "percent": 100,
-				       "hz": "288hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Deception Dive",
@@ -893,7 +893,7 @@ const d = {
 				       "user": "Vones",
 				       "link": "https://youtu.be/YMwrIPBNv2I",
 				       "percent": 100,
-				       "hz": "300hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Glide",
@@ -926,7 +926,7 @@ const d = {
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=opcEi8gJUks",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Annihilation Nation",
@@ -959,19 +959,19 @@ const d = {
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/DDd9sCqIweM",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 		 {
 				       "user": "shibi",
 				       "link": "https://youtu.be/KgrBASDssOM",
 				       "percent": 100,
-				       "hz": "288hz"
+				       "hz": ""
 			       },
 			       {
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=vqxkZFJEQ3s",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Allegiance",
@@ -990,19 +990,19 @@ const d = {
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/onsUzYT68aE",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 		 {
 				       "user": "shibi",
 				       "link": "https://youtu.be/-JV4AnFi5bI",
 				       "percent": 100,
-				       "hz": "288hz"
+				       "hz": ""
 			       },
 			       {
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=ef-L_YsF4tQ",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Incipient",
@@ -1021,31 +1021,31 @@ const d = {
 				       "user": "Vink",
 				       "link": "https://youtu.be/oIKxT6hKojk",
 				       "percent": 100,
-				       "hz": "60hz"
+				       "hz": ""
 			       },
 		 {
 				       "user": "shibi",
 				       "link": "https://youtu.be/E9AcWszCbYo",
 				       "percent": 100,
-				       "hz": "288hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "Vones",
 				       "link": "https://youtu.be/dHptu4hPwtE",
 				       "percent": 100,
-				       "hz": "300hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/1LKPG2fjlN8",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
 			       {
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=sTlu8C1JCd0",
 				       "percent": 100,
-				       "hz": "120hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Acu",
@@ -1064,31 +1064,31 @@ const d = {
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/VQy775aNpNs",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "shibi",
 				       "link": "https://youtu.be/gASpRaQQVJ0",
 				       "percent": 100,
-				       "hz": "288hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "Vink",
 				       "link": "https://youtu.be/fcu4B61xnEM",
 				       "percent": 100,
-				       "hz": "120hz"
+				       "hz": ""
 			       },
 			       {
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=fMGS5kBGmMw",
 				       "percent": 100,
-				       "hz": "288hz"
+				       "hz": ""
 			       },
 			       {
 				       "user": "Vones",
 				       "link": "https://youtu.be/gsWPpE4Rid0",
 				       "percent": 100,
-				       "hz": "300hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Cataclysm",
@@ -1107,13 +1107,13 @@ const d = {
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/d7FFjfNL3z4",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "Vink",
 				       "link": "https://www.youtube.com/watch?v=eu53N55LEOE",
 				       "percent": 77,
-				       "hz": "60hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Hypersonic",
@@ -1132,19 +1132,19 @@ const d = {
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/jiJNya_uZ_0",
 				       "percent": 100,
-				       "hz": "144hz"
+				       "hz": ""
 			       },
 		{
 				       "user": "Vink",
 				       "link": "https://www.youtube.com/watch?v=DQmhBYBYrzU",
 				       "percent": 100,
-				       "hz": "120hz"
+				       "hz": ""
 			       },
 			       {
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=n_OvZT59vh8",
 				       "percent": 100,
-				       "hz": "288hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "ICE Carbon Diablo X",
@@ -1163,13 +1163,13 @@ const d = {
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/bov9WkS_MsM",
 				       "percent": 100,
-				       "hz": "288hz"
+				       "hz": ""
 			       },
 			       {
 				       "user": "luna",
 				       "link": "https://www.youtube.com/watch?v=cOIIjsfzha8",
 				       "percent": 100,
-				       "hz": "240hz"
+				       "hz": ""
 			       },
                        ],
                        "name": "Gunslinga Corridor",
