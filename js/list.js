@@ -1053,6 +1053,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "288hz"
 			       },
+			       {
+				       "user": "Vones",
+				       "link": "https://youtu.be/gsWPpE4Rid0",
+				       "percent": 100,
+				       "hz": "300hz"
+			       },
                        ],
                        "name": "Cataclysm",
                        "author": "piesy",
