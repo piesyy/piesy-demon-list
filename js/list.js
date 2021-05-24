@@ -1,6 +1,37 @@
 const d = {
 	"list": [
 	/*=================================================================================*/
+		{
+                       "vids": [
+               {
+					"user": "Dhar Mann",
+					"link": "https://youtu.be/QHq_S-ihf7M",
+					"percent": 100,
+					"hz": "60hz"
+				},
+			       {
+					"user": "LivingBobby",
+					"link": "https://youtu.be/x6o2bqsTfZs",
+					"percent": 100,
+					"hz": "60hz"
+				},
+ {
+					"user": "AeonAir",
+					"link": "https://youtu.be/Nr9E-r57NRU",
+					"percent": 100,
+					"hz": "60hz"
+				},
+                       ],
+                       "name": "Be a Good Person",
+                       "author": "Mr Beast Philanthropy",
+                       "more": "none",
+                       "id": 39424151,
+                       "pass": "SO NICE",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/f-empfLWbIk",
+                       "key": 0
+                },
+        /*=================================================================================*/
         {
                        "vids": [
               
