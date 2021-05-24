@@ -216,7 +216,7 @@ const d = {
                        "vids": [
               {
 				       "user": "luna",
-				       "link": "https://youtu.be/BrEFZtgkT20",
+				       "link": "https://www.youtube.com/watch?v=quCyfX7QvKM",
 				       "percent": 76,
 				       "hz": "240hz"
 			       },
@@ -227,7 +227,7 @@ const d = {
                        "id": 45094581,
                        "pass": "who cares",
                        "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/quCyfX7QvKM",
+                       "verificationVid": "https://www.youtube.com/watch?v=FbklH71ci3E",
                        "key": 12
                 },
         /*=================================================================================*/
