@@ -214,7 +214,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+              {
+				       "user": "luna",
+				       "link": "https://youtu.be/BrEFZtgkT20",
+				       "percent": 76,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "Delta Interface",
                        "author": "piesy",
@@ -222,13 +227,18 @@ const d = {
                        "id": 45094581,
                        "pass": "who cares",
                        "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/lTMyzxnSBjE",
+                       "verificationVid": "https://youtu.be/quCyfX7QvKM",
                        "key": 12
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-              
+              {
+				       "user": "luna",
+				       "link": "https://youtu.be/L87Tev_CBBk",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "Artificial Ascent",
                        "author": "piesy",
@@ -242,7 +252,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+              {
+				       "user": "luna",
+				       "link": "https://youtu.be/P3--0rwwEik",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "Auditory Breaker",
                        "author": "piesy",
@@ -256,7 +271,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+              {
+				       "user": "luna",
+				       "link": "https://www.youtube.com/watch?v=vcH_SbTVKMg",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "Glowy",
                        "author": "piesy",
@@ -282,6 +302,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+		{
+				       "user": "Vink",
+				       "link": "https://youtu.be/d1sDfKcWAA4",
+				       "percent": 82,
+				       "hz": "180hz"
+			       },
                        ],
                        "name": "Rate Demon",
                        "author": "piesy",
@@ -301,6 +327,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+		{
+				       "user": "luna",
+				       "link": "https://www.youtube.com/watch?v=5J2FDWRJx7M",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "Ziroikabi",
                        "author": "piesy",
@@ -319,6 +351,12 @@ const d = {
 				       "link": "https://youtu.be/bvObypx7roQ",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+		{
+				       "user": "luna",
+				       "link": "https://youtu.be/Y1QqpKbwAAA",
+				       "percent": 100,
+				       "hz": "240hz"
 			       },
                        ],
                        "name": "Surge of the Shield",
@@ -344,6 +382,12 @@ const d = {
 				       "link": "https://youtu.be/sUAjPszSFKA",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+		{
+				       "user": "luna",
+				       "link": "https://youtu.be/6i5TxqKd_1E",
+				       "percent": 100,
+				       "hz": "240hz"
 			       },
                        ],
                        "name": "Audio Expulsion",
@@ -424,7 +468,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+              {
+				       "user": "luna",
+				       "link": "https://youtu.be/RdV12EZGX3w",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "Disentombed",
                        "author": "piesy",
@@ -457,7 +506,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+              {
+				       "user": "luna",
+				       "link": "https://youtu.be/25v6CyYRoEQ",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "SPEEDRUN",
                        "author": "piesy",
@@ -485,7 +539,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+              {
+				       "user": "luna",
+				       "link": "https://youtu.be/H2RBovHqtYo",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "Fusion Z",
                        "author": "piesy",
@@ -536,6 +595,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "120hz"
 			       },
+			       {
+				       "user": "luna",
+				       "link": "https://youtu.be/KI72VgVOqrE",
+				       "percent": 100,
+				       "hz": "288hz"
+			       },
                        ],
                        "name": "Bloodbath",
                        "author": "piesy",
@@ -563,7 +628,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+              {
+				       "user": "luna",
+				       "link": "https://youtu.be/j6U1whaVETM",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "Atmosphere",
                        "author": "piesy",
@@ -577,7 +647,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+              {
+				       "user": "luna",
+				       "link": "https://www.youtube.com/watch?v=cc7qstGtgUw",
+				       "percent": 100,
+				       "hz": "240hz"
+			       },
                        ],
                        "name": "Azure Fiesta",
                        "author": "piesy",
@@ -734,6 +809,12 @@ const d = {
 				       "link": "https://youtu.be/oZn5qYSS4nU",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+		{
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=vJwKKKd2ZYE",
+				       "percent": 84,
+				       "hz": "120hz"
 			       },
                        ],
                        "name": "Deception Dive",
@@ -933,6 +1014,12 @@ const d = {
 				       "percent": 100,
 				       "hz": "144hz"
 			       },
+		{
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=eu53N55LEOE",
+				       "percent": 77,
+				       "hz": "60hz"
+			       },
                        ],
                        "name": "Hypersonic",
                        "author": "piesy",
@@ -951,6 +1038,12 @@ const d = {
 				       "link": "https://youtu.be/jiJNya_uZ_0",
 				       "percent": 100,
 				       "hz": "144hz"
+			       },
+		{
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=DQmhBYBYrzU",
+				       "percent": 100,
+				       "hz": "120hz"
 			       },
                        ],
                        "name": "ICE Carbon Diablo X",
