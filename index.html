@@ -142,15 +142,15 @@
         if (hz == null) {
             hzpoint = 1;
         } else if (hz == "Mobile") {
-            hzpoint = 0.5;
+            hzpoint = 0;
         } else {
             var hzInt = parseInt(hz.replace("Bypass", "").replace("hz", "").replace("bypass", "").replace("Hz", "").replace("HZ", ""));
             if (hzInt >= 110) {
                 hzpoint = 0;
             } else if (hzInt >= 70) {
-                hzpoint = 0.2;
+                hzpoint = 0;
             } else {
-                hzpoint = 0.3;
+                hzpoint = 0;
             }
         }
         var point_rank = 0;
