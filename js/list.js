@@ -36,6 +36,20 @@ const d = {
                        "vids": [
               
                        ],
+                       "name": "Kenos",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 58673581,
+                       "pass": "who cares",
+                       "percentToQualify": 50,
+                       "verificationVid": "https://youtu.be/zBhDazSr9gw",
+                       "key": 1
+                },
+	/*=================================================================================*/
+        {
+                       "vids": [
+              
+                       ],
                        "name": "Arctic Lights",
                        "author": "piesy",
                        "more": "none",
